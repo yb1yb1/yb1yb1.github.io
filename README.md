@@ -1,2 +1,2 @@
 # yb1yb1.github.io
-test
+this is yb1's github page :)
