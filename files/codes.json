@@ -1,0 +1,4 @@
+{
+  "_comment": "Put the name of the command first, then the code itself next.",
+  "example": "console.log(\"Like this!\")"
+}
